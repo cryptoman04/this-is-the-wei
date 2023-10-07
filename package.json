@@ -1,0 +1,16 @@
+{
+  "name": "this-is-the-wei",
+  "version": "1.0.0",
+  "description": "A collection of wrappers for popular Ethereum smart contracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "5.0",
+    "typescript": "^5.2.2",
+    "zksync-web3": "^0.14.3"
+  }
+}
