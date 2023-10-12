@@ -21,6 +21,7 @@ export const TOKENS = {
 		decimals: 18,
 		contractAddress: {
 			ZKSYNC: ETH_ADDRESS_ZKSYNC,
+			ZKSYNC_MUTE: '0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91'
 		},
 	},
 	USDC: {

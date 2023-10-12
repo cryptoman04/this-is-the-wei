@@ -2,8 +2,9 @@ import * as zksync from 'zksync-web3';
 import * as ethers from 'ethers';
 import { defaultAbiCoder } from 'ethers/lib/utils';
 import Protocol, { TransactionResult } from '../Protocol';
-import { Token } from '../../../types';
+import { Token } from '../../types';
 import { ETH, ETH_ADDRESS_ZKSYNC, TOKENS, ZERO_ADDRESS } from '../../constants';
+
 
 
 const erc20_abi = require('./abis/erc20.json');
